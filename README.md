@@ -4,6 +4,8 @@ Projeto Web do artigo [Parse Notification. Push Message Android - Parte 7](https
 
 Projeto Web (backend) de apoio ao projeto Android do artigo citado acima. Artigo que tem como principal proposta mostrar em detalhes como utilizar a API de notificações push da biblioteca (empresa) [Parse](https://parseplatform.org/).
 
+API que facilita consideravelmente o trabalho com uma das características mais importantes em sistemas Android e mobile em geral: notificações push (ou somente *push message*).
+
 ### Lado Android
 
 Este é um projeto que contém também um lado Android. Lado que deve ser desenvolvido como apresentado, detalhadamente, em artigo.
